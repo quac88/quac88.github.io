@@ -1,3 +1,1 @@
 # Introduction
-
-Bittensor Documentation
