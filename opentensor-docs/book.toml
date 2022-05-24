@@ -1,5 +1,5 @@
-[book]
-authors = []
+[Bittensor]
+authors = "Opentensor"
 language = "en"
 multilingual = false
 src = "src"

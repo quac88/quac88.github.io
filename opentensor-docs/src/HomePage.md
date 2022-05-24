@@ -1,3 +1,3 @@
-# Docomention Website 
+# Bittensor 
 
-Hello, this is my homepage!
+Welcome to Bittensor!
