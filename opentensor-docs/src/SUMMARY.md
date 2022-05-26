@@ -12,14 +12,15 @@
     - [Governance and Responsibilty](nested/GovernanceResponsibility.md)
 
 
-- [Tutorials](cli/Tutorials.md)
+- [Tutorials](Tutorials.md)
     - [Getting Started](cli/GettingStarted.md)
     - [Subtensor](cli/Subtensor.md)
     - [Basic btcli](cli/Basicbtcli.md)
     - [Miner Preperation](cli/MinerPreperation)
 
 
-[Glossary](Glossary.md)
+- [Glossary](Glossary.md)
+    - [Arguments](css/Arguments.md)
 
 [BlogPosts](BlogPosts.md)
 
