@@ -1,3 +1,0 @@
-# Bittensor 
-
-Welcome to Bittensor!
