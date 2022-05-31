@@ -1,3 +1,2 @@
 # Learn
-
-Welcome to the Learn Section!
+![Tao Logo](/opentensor-docs/book/tao.svg)

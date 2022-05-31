@@ -1,5 +1,7 @@
-[Bittensor]
-authors = "Opentensor"
+[book]
+title = "Opentensor Docs"
+authors = "OpentensorFoundation"
 language = "en"
 multilingual = false
 src = "src"
+
